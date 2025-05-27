@@ -14,7 +14,7 @@ Designed for the National Disability Rights Annual Conference, this interactive 
 The goal of this project is to raise awareness and inspire action regarding accessibility challenges at airports. Key features include:  
 - Complaint volume analysis by airport, category, and time period  
 - Insights into specific accessibility concerns affecting travelers  
-- Direct engagement option**—attendees can fill out a form to send pre-written letters to airport executives at the top five airports with the highest complaints  
+- Direct engagement option: attendees can fill out a form to send pre-written letters to airport executives at the top five airports with the highest complaints  
 
 By using clear and actionable insights, this initiative encourages policy improvements and stronger inclusivity measures in air travel.  
 
